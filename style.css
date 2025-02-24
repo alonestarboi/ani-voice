@@ -1,0 +1,31 @@
+body {
+    background-color: brown;
+    text-align: center;
+}
+h1{
+    margin-left: 30px;
+}
+img{
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+.btnclass{
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.btnclass i{
+    margin-left: 50px;
+}
+.sukunavoice i{
+    margin-left: 40px;
+    background-size: contain;
+}
